@@ -16,32 +16,32 @@ export const Projects = () => {
   const projects = [
     {
       title: "Crypto-Tracker",
-      description: "Real-Time Data Updates: ReactJS allows for seamless integration with real-time data sources like APIs, making it ideal for displaying live cryptocurrency price and market data.component-based architecture makes it straightforward to build a responsive and user-friendly interface that works well on both desktop and mobile devices.",
+      description: "Developed a ReactJS-based cryptocurrency tracker project for real-time monitoring. Offers comprehensive crypto data, charts, and portfolio management. Enhances user engagement in the dynamic world of cryptocurrencies.",
       imgUrl: projImg1,
     },
     {
       title:"Podcast-Plateform",
-      description: "Design & Development",
+      description: "Engage: Create an immersive podcast platform with ReactJS to captivate users and keep them hooked with compelling content.Streamline: Utilize React's efficiency to streamline the user experience, ensuring smooth navigation and seamless playback.",
       imgUrl: projImg2,
     },
     {
       title: "Finance-Tracker",
-      description: "Design & Development",
+      description: "Developed a ReactJS-based finance tracker, providing users with intuitive budget management tools and real-time financial insights. Enhanced user experience through responsive design and interactive data visualization, empowering users to take control of their finances.",
       imgUrl: projImg3,
     },
     {
       title: "3d-portfolio",
-      description: "Design & Development",
+      description: "Crafted a dynamic 3D portfolio using ReactJS, showcasing a diverse range of creative projects.Implemented interactive features and animations for an engaging user exploration experience.Seamlessly integrated responsive design to showcase work across various devices, enhancing accessibility.",
       imgUrl: projImg4,
     },
     {
       title: "E-commerce ",
-      description: "Design & Development",
+      description: "Developed an e-commerce platform using ReactJS for a dynamic and user-friendly online shopping experience. Integrated robust features, intuitive UI, and secure payment processing to enhance customer engagement. Delivered a scalable and efficient solution for a seamless online retail presence.",
       imgUrl: projImg5,
     },
     {
       title: "3d game ",
-      description: "Design & Development",
+      description: "Developed a dynamic 3D game using JavaScript, pushing boundaries in graphics and interactivity, delivering an engaging gaming experience.",
       imgUrl: projImg6,
     },
   ];

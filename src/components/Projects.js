@@ -16,27 +16,27 @@ export const Projects = () => {
   const projects = [
     {
       title: "Crypto-Tracker",
-      description: "Developed a ReactJS-based cryptocurrency tracker project for real-time monitoring. Offers comprehensive crypto data, charts, and portfolio management. Enhances user engagement in the dynamic world of cryptocurrencies.",
+      description: "Developed a ReactJS-based cryptocurrency tracker project for real-time monitoring.",
       imgUrl: projImg1,
     },
     {
       title:"Podcast-Plateform",
-      description: "Engage: Create an immersive podcast platform with ReactJS to captivate users and keep them hooked with compelling content.Streamline: Utilize React's efficiency to streamline the user experience, ensuring smooth navigation and seamless playback.",
+      description: "Create an immersive podcast platform with ReactJS to captivate users and keep them hooked with compelling content.",
       imgUrl: projImg2,
     },
     {
       title: "Finance-Tracker",
-      description: "Developed a ReactJS-based finance tracker, providing users with intuitive budget management tools and real-time financial insights. Enhanced user experience through responsive design and interactive data visualization, empowering users to take control of their finances.",
+      description: "Developed a ReactJS-based finance tracker, providing users with intuitive budget management tools and real-time financial insights.",
       imgUrl: projImg3,
     },
     {
       title: "3d-portfolio",
-      description: "Crafted a dynamic 3D portfolio using ReactJS, showcasing a diverse range of creative projects.Implemented interactive features and animations for an engaging user exploration experience.Seamlessly integrated responsive design to showcase work across various devices, enhancing accessibility.",
+      description: "Crafted a dynamic 3D portfolio using ReactJS, showcasing a diverse range of creative projects.Implemented interactive features and animations for an engaging user exploration experience.",
       imgUrl: projImg4,
     },
     {
       title: "E-commerce ",
-      description: "Developed an e-commerce platform using ReactJS for a dynamic and user-friendly online shopping experience. Integrated robust features, intuitive UI, and secure payment processing to enhance customer engagement. Delivered a scalable and efficient solution for a seamless online retail presence.",
+      description: "Developed an e-commerce platform using ReactJS for a dynamic and user-friendly online shopping experience. Integrated robust features, intuitive UI, and secure payment processing to enhance customer engagement.",
       imgUrl: projImg5,
     },
     {

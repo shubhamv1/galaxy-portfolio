@@ -16,7 +16,8 @@ export const Projects = () => {
   const projects = [
     {
       title: "Crypto-Tracker",
-      description: "Design & Development",
+      description: "Real-Time Data Updates: ReactJS allows for seamless integration with real-time data sources like APIs, making it ideal for displaying live cryptocurrency price and market data.
+'component-based architecture makes it straightforward to build a responsive and user-friendly interface that works well on both desktop and mobile devices.",
       imgUrl: projImg1,
     },
     {

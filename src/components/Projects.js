@@ -36,7 +36,7 @@ export const Projects = () => {
     },
     {
       title: "E-commerce ",
-      description: "Developed an e-commerce platform using ReactJS for a dynamic and user-friendly online shopping experience. Integrated robust features, intuitive UI, and secure payment processing to enhance customer engagement.",
+      description: "Developed an e-commerce platform using React.js, Firebase,tailwind ,css.",
       imgUrl: projImg5,
     },
     {
